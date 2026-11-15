@@ -1,3 +1,29 @@
+# Windows-MCP
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+MCP Server for Computer Use in Windows
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+面向 Windows 计算机操作（Computer Use）的 MCP Server。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
   <h1>🪟 Windows-MCP</h1>
 
